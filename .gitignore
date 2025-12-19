@@ -209,3 +209,4 @@ __marimo__/
 /.idea/**
 /autoscripts/reports/**
 /autoscripts/secret_manager_local.py
+/orchestrator_logs/**
